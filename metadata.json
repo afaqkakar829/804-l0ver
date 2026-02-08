@@ -1,0 +1,8 @@
+{
+  "name": "Imran Khan - The Legend's Journey",
+  "description": "A comprehensive digital tribute to Imran Khan, exploring his legendary cricket career, philanthropic impact, and political leadership of Pakistan.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
